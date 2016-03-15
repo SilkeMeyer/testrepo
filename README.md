@@ -1,2 +1,2 @@
 # testrepo
-Testrepo für die CLT 2016
+Testrepo für die Chemnitzer Linuxtage 2016
